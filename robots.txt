@@ -1,0 +1,3 @@
+User-agent: * 
+Allow: /
+Sitemap: https://user-researc.github.io/publicdocuments/urllist.txt
