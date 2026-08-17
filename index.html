@@ -29,8 +29,20 @@
         .doc-title { font-weight: 600; font-size: 1.2rem; color: #003366; text-decoration: none; display: inline-block; margin-bottom: 8px; }
         .doc-title:hover { text-decoration: underline; color: #0056b3; }
         .doc-meta { font-size: 0.85rem; color: #64748b; display: flex; gap: 15px; }
+        /* STILI PER LA NUMERAZIONE DELLE PAGINE */
+.pagination { display: flex; justify-content: center; gap: 8px; margin-top: 30px; padding: 10px; }
+.page-num { display: inline-block; padding: 8px 14px; background: #fff; border: 1px solid #e2e8f0; border-radius: 6px; color: #003366; text-decoration: none; font-weight: bold; font-size: 0.9rem; cursor: pointer; transition: all 0.2s; }
+.page-num:hover { background: #fee2e2; border-color: #ef4444; color: #b91c1c; }
+.page-num.active { background: #003366; color: #fff; border-color: #003366; cursor: default; }
+
         footer { margin-top: 60px; font-size: 0.85rem; color: #888; text-align: center; border-top: 1px solid #e2e8f0; padding-top: 25px; }
     </style>
+    <script>
+    function showAccessDenied(event) {
+        event.preventDefault();
+        alert("❌ ACCESS DENIED\n\nError: You do not have the necessary permissions to access this page.");
+    }
+</script>
 </head>
 <body>
 
