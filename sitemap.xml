@@ -1,47 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://sitemaps.org">
-  <url>
-    <loc>https://user-researc.github.io/publicdocuments/Perizia_stima_aziendale_Gaetano_Percuoco.pdf</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://user-researc.github.io/publicdocuments/Relazione_Valore_Economico_di_un_Ramo_Azienda_Gaetano_Percuoco.pdf</loc>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://user-researc.github.io/publicdocuments/Organizzazione_aziendale_Gaetano_Percuoco.pdf</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://user-researc.github.io/publicdocuments/Modello_organizzativo_per_zes_Gaetano_Percuoco.pdf</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://user-researc.github.io/publicdocuments/Guerra_in_Iran_cyber_sabotaggio_l_uso_dell_ai_in_battaglia_Gaetano_Percuoco.pdf</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://user-researc.github.io/publicdocuments/road_map_piano_didattico__DSA_semplificato_diritto_costituzionale.pdf</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://user-researc.github.io/publicdocuments/guida_studio_sovranita_dsa.pdf</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://github.io</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://user-researc.github.io/publicdocuments/analisi_qualitativa_dell_organizzazione_elementi_esg_Gaetano_Percuoco.pdf</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://user-researc.github.io/publicdocuments/Progetto_Imprenditoriale_BeautySharing_PM_Gaetano_Percuoco_Bari.pdf</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://user-researc.github.io/publicdocuments/Relazione_Abusivismo_v.10.8_Gaetano_Percuoco.pdf</loc>
-    <priority>0.8</priority>
-  </url>
-</urlset>
+<ul class="doc-list">
+    <li class="doc-item">
+        <a class="doc-title" href="Perizia_stima_aziendale_Gaetano_Percuoco.pdf" target="_blank">Perizia di Stima Aziendale</a>
+        <div class="doc-meta"><span><strong>Formato:</strong> PDF</span><span><strong>Tipologia:</strong> Valutazione d'Azienda</span></div>
+    </li>
+    <li class="doc-item">
+        <a class="doc-title" href="Relazione_Valore_Economico_di_un_Ramo_Azienda_Gaetano_Percuoco.pdf" target="_blank">Relazione sul Valore Economico di un Ramo d'Azienda</a>
+        <div class="doc-meta"><span><strong>Formato:</strong> PDF</span><span><strong>Tipologia:</strong> Relazione Stima Economica</span></div>
+    </li>
+    <li class="doc-item">
+        <a class="doc-title" href="Organizzazione_aziendale_Gaetano_Percuoco.pdf" target="_blank">Linee Guida sull'Organizzazione Aziendale e Gestione Interna</a>
+        <div class="doc-meta"><span><strong>Formato:</strong> PDF</span><span><strong>Tipologia:</strong> Documento Tecnico / Organizzativo</span></div>
+    </li>
+    <li class="doc-item">
+        <a class="doc-title" href="Modello_organizzativo_per_zes_Gaetano_Percuoco.pdf" target="_blank">Modello Organizzativo per Zone Economiche Speciali (ZES)</a>
+        <div class="doc-meta"><span><strong>Formato:</strong> PDF</span><span><strong>Tipologia:</strong> Modello Organizzativo / Linee Guida</span></div>
+    </li>
+    <li class="doc-item">
+        <a class="doc-title" href="Guerra_in_Iran_cyber_sabotaggio_l_uso_dell_ai_in_battaglia_Gaetano_Percuoco.pdf" target="_blank">Analisi Geopolitica: Cyber Sabotaggio e Uso dell'IA nei Conflitti Moderni USA-IRAN</a>
+        <div class="doc-meta"><span><strong>Formato:</strong> PDF</span><span><strong>Tipologia:</strong> Report di Ricerca / Cyber Security</span></div>
+    </li>
+    <li class="doc-item">
+        <a class="doc-title" href="road_map_piano_didattico__DSA_semplificato_diritto_costituzionale.pdf" target="_blank">Sussidio Didattico: Road Map Progressiva di Diritto Costituzionale</a>
+        <div class="doc-meta"><span><strong>Formato:</strong> PDF</span><span><strong>Tipologia:</strong> Materiale di Studio / Percorso Facilitato</span></div>
+    </li>
+    <li class="doc-item">
+        <a class="doc-title" href="guida_studio_sovranita_dsa.pdf" target="_blank">Guida di Studio: La Sovranità e lo Stato (Metodo Facilitato)</a>
+        <div class="doc-meta"><span><strong>Formato:</strong> PDF</span><span><strong>Tipologia:</strong> Dispensa Didattica / Diritto Costituzionale</span></div>
+    </li>
+    <li class="doc-item">
+        <a class="doc-title" href="LA_SCRIVANIA_COME_TRINCEA_di_Gaetano%20Percuoco.pdf" target="_blank">Saggio Sociologico: Asimmetrie Informative e Analisi Organizzativa nelle PMI</a>
+        <div class="doc-meta"><span><strong>Formato:</strong> PDF</span><span><strong>Tipologia:</strong> Contributo di Ricerca / Studio Empirico</span></div>
+    </li>
+    <li class="doc-item">
+        <a class="doc-title" href="analisi_qualitativa_dell_organizzazione_elementi_esg_Gaetano_Percuoco.pdf" target="_blank">Scientific Corporate Test: Diagnosi Predittiva e Intelligenza Artificiale per le Imprese</a>
+        <div class="doc-meta"><span><strong>Formato:</strong> PDF</span><span><strong>Tipologia:</strong> Articolo Tecnico / Innovazione Aziendale</span></div>
+    </li>
+    <li class="doc-item">
+        <a class="doc-title" href="Relazione_Abusivismo_v.10.8_Gaetano_Percuoco.pdf" target="_blank">Relazione Tecnica: Analisi sull'Abusivismo nel Settore Estetica e Benessere</a>
+        <div class="doc-meta"><span><strong>Formato:</strong> PDF</span><span><strong>Tipologia:</strong> Relazione di Settore / Indagine Economica</span></div>
+    </li>
+    <li class="doc-item">
+        <a class="doc-title" href="Progetto_Imprenditoriale_BeautySharing_PM_Gaetano_Percuoco_Bari.pdf" target="_blank">Presentazione Strategica: Answers to Needs - Progetto Imprenditoriale Wellness & SPA</a>
+        <div class="doc-meta"><span><strong>Formato:</strong> PDF</span><span><strong>Tipologia:</strong> Business Plan / Opportunità d'Investimento</span></div>
+    </li>
+</ul>
